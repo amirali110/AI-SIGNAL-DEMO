@@ -1,2 +1,2 @@
 # AI_SIGNAL_DEMO
-Artificial Intelligence trading(signal) with stochastic algorithm.
+Artificial Intelligence trading(signal) with stochastic algorithm
